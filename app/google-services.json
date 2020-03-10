@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404555838591",
+    "firebase_url": "https://tagplace-7ac90.firebaseio.com",
+    "project_id": "tagplace-7ac90",
+    "storage_bucket": "tagplace-7ac90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404555838591:android:86c82d0488a07a4a83bb4a",
+        "android_client_info": {
+          "package_name": "com.example.tagyourplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404555838591-ke6g740m7t8pjnfb1q140aamk5reu1t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tagyourplace",
+            "certificate_hash": "41d725eed3a8681719e800d1bdabc0629b6fb41f"
+          }
+        },
+        {
+          "client_id": "404555838591-u339sv5aoefq2522h3ujeun9psfil3q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiGa0wb4MUtlQmjMpCdDkSqjyMTgUhUrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404555838591-u339sv5aoefq2522h3ujeun9psfil3q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
